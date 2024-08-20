@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d+6YaDqdUiNkdLX8STBBlaA/PAiq/JyxQOdzXtPzSDQ=",
+  "Source": "SafeStashAdminPortalAPI",
+  "BasePath": "_content/SafeStashAdminPortalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

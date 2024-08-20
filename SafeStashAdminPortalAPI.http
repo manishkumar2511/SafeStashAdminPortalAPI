@@ -1,0 +1,6 @@
+@SafeStashAdminPortalAPI_HostAddress = http://localhost:5103
+
+GET {{SafeStashAdminPortalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
