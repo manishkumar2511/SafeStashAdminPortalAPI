@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafeStashAdminPortalAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ef36cea4624a7d5dda1ba58139bffb001c0f909")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3993fa85d2780e2f3e636ee653ebce4ca80ebef4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SafeStashAdminPortalAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SafeStashAdminPortalAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
